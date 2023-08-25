@@ -238,7 +238,7 @@ const projects = [
     id: 'project-5',
     name: 'Proxy downloader',
     description:
-      'This is a demo concert website for a music festival called Nyeusi.',
+      'This project is a console-based program to test some proxy-like functions that control the downloading of URL resources from the web.',
     tags: [
       {
         name: 'java',
