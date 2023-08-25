@@ -102,7 +102,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                  'src/assets/personal/Ori-Vered-CV.pdf', //paste the link to your resume here
+                  'https://github.com/OriVered/OriVered.github.io/tree/main/src/assets/personal/Ori-Vered-CV.pdf', //paste the link to your resume here
                   '_blank'
                 )
               }
